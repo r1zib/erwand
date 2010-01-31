@@ -1,0 +1,192 @@
+@charset "utf-8";
+body {
+color:#333333;
+background: url(images/body.png) repeat;
+}
+#contener {
+width:800px;
+margin:0 auto;
+background: url(images/contener.png) repeat-y;
+position : relative;
+}
+
+h1  a {
+    display:block;
+    margin: 0 31px 0;
+	height:120px;
+	background:white url(images/logo.png) no-repeat top right;
+	text-indent:-999em;
+}
+
+#main, footer p{
+padding: 0 40px 0 55px;
+}
+#main dd {
+margin-left:15px;
+}
+
+#first-h2 {
+margin-top:200px;
+}
+h2, h2 a{
+font-size:18px;
+font-weight:bold;
+padding-top:1em;
+color:#003366;
+text-decoration:none;
+}
+h2 a:hover{
+text-decoration:underline;
+}
+
+
+#navigation{
+position: absolute;
+right:0;
+top:100px;
+width:100%;
+background: url(images/navigation.png) repeat-x;
+height:220px;
+}
+#navigation  .col-centrale{
+width:710px;
+padding:42px 50px 0 40px;
+margin:0 auto;
+}
+#navigation dl{
+ float:left;
+color:#333333;
+font-family:"Lucida Grande","Trebuchet MS",Arial,Helvetica,sans-serif;
+font-size:12px;
+}
+#navigation dl a{
+color:#669933;
+font-size:20px;
+font-weight:bold;
+text-decoration:none;
+}
+#navigation img{
+ float:left;
+ margin:-50px 0 0 30px;
+}
+
+#bottom {
+background-image:url(images/bottom.png);
+height:50px;
+margin:0 auto 75px;
+width:800px;
+}
+
+#footer {
+   font-size:8px;
+   text-align:right;
+}
+/*     Site    */
+#site #main img {
+padding: 1px;
+}
+ #site #main img:hover {
+border: 1px solid black;
+padding: 0;
+}
+/* CV */
+
+#competence dt {
+clear:both;
+float:left;
+width:100px;
+}
+#competence dd {
+margin-left:100px
+}
+
+.icone {
+float:left;
+margin: 0 5px;
+}
+.icone ul {
+list-style-type:none;
+padding:0;
+margin:0;
+}
+.icone li {
+float:left;
+text-align:center;
+}
+.icone span{
+display:block;
+margin: 0 5px;
+}
+
+.finicone {
+clear:both;
+}
+#experiences dd{
+padding-left:100px;
+margin-left:0;
+}
+#experiences span{
+display:block;
+float:left;
+width:100px;
+}
+#experiences a {
+	color:#333333;
+}
+#experiences a:hover, #experiences a:active {
+   color:black;
+}
+
+#formation tr {
+background-color: #FFFCE0;
+}
+#formation thead {
+background-color: #d6d6d6;
+}
+#formation td {
+padding-right:0.2em;   
+}
+
+#formation a {
+	color:#333333;
+}
+#formation a:hover, #formation a:active {
+   color:black;
+}
+
+#formation .col1 {
+width:100px;
+} 
+
+
+
+form label {
+display:block;
+float:left;
+width:8em;
+text-align:right;
+}
+form .col2 {
+margin-left:8em;
+}
+
+/* Contact */
+.col-droite {
+position : absolute;
+width:250px;
+margin:0 auto;
+top:160px;
+right:60px;
+z-index:2;
+
+}
+
+#contact .col-droite td {
+padding-left: 5px;
+}
+
+#contact textarea {
+width:560px;
+height:5em;
+}
+
