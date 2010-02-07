@@ -39,7 +39,7 @@
 	<li><img src="images/flash.png" alt="Flash" title="Flash" /><span>Flash</span></li>
 	<li><img src="images/photoshop.png" alt="Photoshop" title="Photoshop" /><span>Photoshop</span></li>
 	<li><img src="images/illustrator.png" alt="Illustrator" title="Illustrator" /><span>Illustrator</span></li>
-	<li><img src="images/dreamweaver.png" alt="Dreamweaver" title="Dreamweaver" /><span>Dreamweaver</span></li>
+	<li><img src="images/dreamweaver.png" alt="Dreamweaver" title="Dreamweaver" /><span>Dreamweaver1</span></li>
 	<li><img src="images/eclipse.png" alt="Eclipse" title="Eclipse" class="png_bg" /><span>Eclipse</span></li>
 </ul>
 </div>
