@@ -1,5 +1,5 @@
-<link href="font.reset.css" rel="stylesheet" type="text/css" />
-<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="css/font.reset.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
 <!-- Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -16,5 +16,5 @@ pageTracker._trackPageview();
 <script>
   DD_belatedPNG.fix('.png_bg');
 </script>
-<![endif]--> 
+<![endif]-->
 

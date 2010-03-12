@@ -1,12 +1,12 @@
 @charset "utf-8";
 body {
 color:#333333;
-background: url(images/body.png) repeat;
+background: url(../images/body.png) repeat;
 }
 #contener {
 width:800px;
 margin:0 auto;
-background: url(images/contener.png) repeat-y;
+background: url(../images/contener.png) repeat-y;
 position : relative;
 }
 
@@ -14,7 +14,7 @@ h1  a {
     display:block;
     margin: 0 31px 0;
 	height:120px;
-	background:white url(images/logo.png) no-repeat top right;
+	background:white url(../images/logo.png) no-repeat top right;
 	text-indent:-999em;
 }
 
@@ -45,7 +45,7 @@ position: absolute;
 right:0;
 top:100px;
 width:100%;
-background: url(images/navigation.png) repeat-x;
+background: url(../images/navigation.png) repeat-x;
 height:220px;
 }
 #navigation  .col-centrale{
@@ -71,7 +71,7 @@ text-decoration:none;
 }
 
 #bottom {
-background-image:url(images/bottom.png);
+background-image:url(../images/bottom.png);
 height:50px;
 margin:0 auto 75px;
 width:800px;
@@ -144,7 +144,7 @@ background-color: #FFFCE0;
 background-color: #d6d6d6;
 }
 #formation td {
-padding-right:0.2em;   
+padding-right:0.2em;
 }
 
 #formation a {
@@ -156,7 +156,7 @@ padding-right:0.2em;
 
 #formation .col1 {
 width:100px;
-} 
+}
 
 
 
